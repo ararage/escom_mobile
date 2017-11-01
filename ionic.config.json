@@ -1,5 +1,8 @@
 {
-  "name": "myApp",
-  "app_id": "",
-  "type": "ionic-angular"
+  "name": "ESCOM Curso",
+  "app_id": "f5272cd3",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
 }
